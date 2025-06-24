@@ -147,4 +147,4 @@ spec:
 
 Use with: `kubectl apply -f <filename>`
 
-Happy Learning! 🚀
+
